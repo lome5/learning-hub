@@ -1,23 +1,32 @@
 body {
     font-family: Arial, sans-serif;
     text-align: center;
-    background-color: #f4f4f4;
+    background-color: #f9f9f9;
+    color: #333;
 }
 
 .container {
     margin-top: 50px;
 }
 
-button {
-    background-color: #4CAF50;
-    color: white;
-    border: none;
-    padding: 10px 20px;
-    font-size: 18px;
-    cursor: pointer;
-    border-radius: 5px;
+.welcome-image {
+    width: 200px;
+    margin: 20px auto;
 }
 
-button:hover {
-    background-color: #45a049;
+.button {
+    display: inline-block;
+    background-color: pink;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.github-link {
+    display: inline-block;
+    margin-top: 10px;
+    color: #333;
+    font-weight: bold;
 }
