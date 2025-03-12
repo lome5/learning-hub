@@ -13,10 +13,8 @@ This is my personal GitHub profile page, made with GitHub Pages, to make it easy
 
 🌟 Why did I make this?
 
-I wanted a sweet and cozy space where you can easily check out my projects and see what I’ve been working on! 🌸
-
-💌 Check it out:
-📂 Repository: lome5/learning-hub
-🌍 Live site: lome5.github.io
-
-Thanks for stopping by ☁️💞 Don’t forget to say hi🥰
+I wanted a sweet and cozy space where you can easily check out my projects and see what I’ve been working on🌸
+ 🌐 My GitHub Profile Website  
+I created this profile website using GitHub Pages! 🚀💖  
+Check it out here: [My Profile Website](https://lome5.github.io/) ✨  
+Thanks for stopping by ☁️💞 
