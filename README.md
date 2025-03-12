@@ -16,5 +16,5 @@ This is my personal GitHub profile page, made with GitHub Pages, to make it easy
 I wanted a sweet and cozy space where you can easily check out my projects and see what I’ve been working on🌸
  🌐 My GitHub Profile Website  
 I created this profile website using GitHub Pages! 🚀💖  
-Check it out here: [My Profile Website](https://lome5.github.io/) ✨  
+Check it out here: [My Profile Website](https://lome5.github.io/learning-hub/) ✨  
 Thanks for stopping by ☁️💞 
